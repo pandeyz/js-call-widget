@@ -1,6 +1,6 @@
 // Plugin name: widget.js
 // Created on: 27-02-2020
-// Author: Mayank Pandey (mayankpandey49@gmail.com)
+// Author: Mayank Pandey (pandeyz@yahoo.in)
 // Purpose: To show a call widget on the webpage where this widget.js file is included
 // How to use: Include the widget.js in your page under script tag like <script type="text/javascript" src="path/widget.js"></script>
 
